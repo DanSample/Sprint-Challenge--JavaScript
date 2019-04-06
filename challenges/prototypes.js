@@ -7,9 +7,9 @@
 */
 
 function CuboidMaker(props){
-  this.length = props.length;
-  this.width = props.width;
-  this.height = props.height;
+  this.length = props.length,
+  this.width = props.width,
+  this.height = props.height
 }
 
 /* == Step 2: Volume Method ==
